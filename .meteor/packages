@@ -23,3 +23,5 @@ iron:router
 pcel:loading
 accounts-password
 ian:accounts-ui-bootstrap-3
+accounts-google
+alanning:roles
